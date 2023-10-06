@@ -4,7 +4,7 @@ Software Engineering | DevOps
 -----------------------------
 - 🇨🇦 Canadian & 🇫🇷 French
 - 📍 Montréal
-- 🌐 https://github.com/Luca-garnier
+- 🌐 https://www.linkedin.com/in/luca-garnier-landurie/
 - ☁️ Learning DevOps
 
 ### Skills
