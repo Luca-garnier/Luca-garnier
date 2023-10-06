@@ -1,9 +1,12 @@
 ## Hi there 👋 Welcome to my page. 🌝
 
-### DevOps | Software Engineering
+## DevOps | Software Engineering
 
-Big fan of software engineering and specifically the Cloud. Curious, self-taught, and relentlessly learning until I land I good job. Started my AWS journey and eager to learn more everyday! Focused on completing projects, gaining knowledge and obtaining results.
-
+<ul>
+  <li>-📍 Montréal</li>
+  <li>🌐 https://www.linkedin.com/in/luca-garnier-landurie/</li>
+  <li>☁️ Learning DevOps/li>
+</ul>
 - 📍 Montréal
 - 🌐 https://www.linkedin.com/in/luca-garnier-landurie/
 - ☁️ Learning DevOps
