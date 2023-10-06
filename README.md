@@ -1,6 +1,6 @@
-### Hi there 👋 Welcome to my page. 
-==========================================
-DevOps | Software Engineering
+## Hi there 👋 Welcome to my page. 🌝
+
+# DevOps | Software Engineering
 
 ## Skills
 <p align="left">
