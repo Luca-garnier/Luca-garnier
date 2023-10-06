@@ -1,6 +1,6 @@
 Welcome to my page 🌝
 ==========================================
-Software Engineering | DevOps
+Software Development | DevOps
 -----------------------------
 - 🌍  Based in Montreal, Canada
 - 🇫🇷 French & 🇨🇦 Canadian
