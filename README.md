@@ -1,8 +1,14 @@
 ## Hi there 👋 Welcome to my page. 🌝
 
-# DevOps | Software Engineering
+### DevOps | Software Engineering
 
-# Skills
+Big fan of software engineering and specifically the Cloud. Curious, self-taught, and relentlessly learning until I land I good job. Started my AWS journey and eager to learn more everyday! Focused on completing projects, gaining knowledge and obtaining results.
+
+- 📍 Montréal
+- 🌐 https://www.linkedin.com/in/luca-garnier-landurie/
+- ☁️ Learning DevOps
+
+### Skills
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
