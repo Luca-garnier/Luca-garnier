@@ -1,4 +1,4 @@
-Hello There, welcome to my page 🌝
+Welcome to my page 🌝
 ==========================================
 Software Engineering | DevOps
 -----------------------------
