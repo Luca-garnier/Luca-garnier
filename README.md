@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my page. 
+==========================================
+DevOps | Software Engineering
 
 ## Skills
 <p align="left">
