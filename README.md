@@ -7,9 +7,7 @@
   <li>🌐 https://www.linkedin.com/in/luca-garnier-landurie/</li>
   <li>☁️ Learning DevOps/li>
 </ul>
-- 📍 Montréal
-- 🌐 https://www.linkedin.com/in/luca-garnier-landurie/
-- ☁️ Learning DevOps
+
 
 ### Skills
 <p align="left">
