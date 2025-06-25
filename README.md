@@ -5,7 +5,6 @@ Software Development | DevOps
 - 🌍  Based in Montreal, Canada
 - 🇫🇷 French &  🇨🇦 Canadian
 - ✉️  You can contact me @ [luca.garnier@gmail.com](mailto:luca.garnier@gmail.com)
-- ☁️ Learning DevOps
 
 ### Skills
 <p align="left">
