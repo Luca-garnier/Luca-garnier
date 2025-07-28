@@ -2,7 +2,7 @@ Welcome to my page 👨‍💻
 ==========================================
 Software Development | DevOps
 -----------------------------
-- 🌍  Based in Montreal, Canada
+- 🌍  Based in Montreal & NYC
 - 🇫🇷 French &  🇨🇦 Canadian
 - ✉️  You can contact me @ [luca.garnier@gmail.com](mailto:luca.garnier@gmail.com)
 
